@@ -1,6 +1,1 @@
-jdk >= 1.8
-maven
-MySQL >= 5.7
-Redis
-git
-Nacos
+git clone git@gitee.com:y_project/RuoYi.git
